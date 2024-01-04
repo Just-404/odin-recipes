@@ -1,10 +1,27 @@
 body {
     font-family: Arial, Tahoma, Verdana;
     font-size: 20px;
-    background-color: rgb(145, 224, 255);
+    background-color: rgb(255, 254, 239);
+    padding: 0 60px;
 }
 
 h1{
     text-align: center;
-    background-color: rgb(69, 97, 223);
+    background-color: rgb(27 51 97);;
+    color: #11a161;
+    margin: 0 auto;
+    padding: 5px;
+    font-size: 36px;
+}
+
+.recipes{
+    margin: 0 auto;
+    padding: 0;
+}
+.recipes li{
+    font-size: 20px;
+    text-align: center;
+    margin: 10px 0;
+    padding: 8px;
+    background-color: rgb(147, 198, 231);
 }

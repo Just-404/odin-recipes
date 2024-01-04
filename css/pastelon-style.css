@@ -1,8 +1,32 @@
+*{
+    margin: 0 2%;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body{
     font-family: Arial, Tahoma, Verdana;
     font-size: 20px;
-    background-color: rgba(255, 181, 44, 0.76);
+    background-color:rgba(209, 170, 40, 0.144);
+    margin: 0 auto;
 }
-h1{
+
+h1 {
     text-align: center;
+    margin: 10px 2%;
+    padding: 4px;
+    background-color: rgb(99, 28, 28);
+    color: rgb(219, 255, 42);
+}
+
+img{
+    width: 30%;
+    margin: 0 35%;
+}
+
+h2{
+    margin: 1% 2%;
+}
+strong{
+    margin: 0;
 }
